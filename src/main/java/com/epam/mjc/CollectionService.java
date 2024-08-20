@@ -38,5 +38,3 @@ return list.stream()
                 .reduce(0,(a,b) -> (a+b));
     }
 }
-
-//можно ли заменить на форич
